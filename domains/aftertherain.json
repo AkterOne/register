@@ -1,9 +1,9 @@
 {
-  "domain": "aftertherain.is-a.dev",
   "owner": {
-    "email": "Kostik123456@gmail.com"
+    "email": "kostik123456@gmail.com",
+    "username": "AkterOne"
   },
-  "record": {
+  "records": {
     "CNAME": ""
   }
 }
